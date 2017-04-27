@@ -6,6 +6,9 @@ Make it for [tesths (Judi)](https://github.com/tesths)
 用来做公众号文章排版的小玩意儿  
 改善下直接由markdown转换成html页面的朴素排版  
 给[巨总](https://github.com/tesths)帮忙写的  
+  
+
+  
 
 ## Tutorial / 使用说明  
 **Without using command line**  
@@ -22,17 +25,21 @@ THIRD: Ctrl+A, Ctrl+C, Ctrl+V to your Wechat richtext editor :)
 1. 把输出的html存到文件  
 2. 把文件拖到[页面](https://nondanee.github.io/tiny-html-decorator/)里  
 3. 全选复制，粘贴到文章编辑器里  
+  
+
 
 ## About / 关于  
 Deployed with Github Page  
 You can also download this page and edit css styles by yourself  
 No other resources loaded for this page except a cdn zepto.js file  
 Background pattern is drawn by css :)  
-
+  
 部署在Github Page上
 [nondanee.github.io/tiny-html-decorator/](https://nondanee.github.io/tiny-html-decorator/)  
 当然你可以把页面下载到本地，自己调整CSS  
 除了CDN上的zepto.js，没有用其他链接资源，背景是用CSS画的  
+  
 
+  
 ## Demo / 演示  
 <img src="https://github.com/nondanee/tiny-html-decorator/blob/master/preview.gif" width = 100% align=center />
